@@ -1,7 +1,7 @@
 # Arduino-traffic-light-
 a traffic light system using Arduino Uno 
 Link :
-https://dixitas3mwal.github.io/Arduino-traffic-light-/
+[https://dixitas3mwal.github.io/Arduino-traffic-light-/](https://wokwi.com/projects/465791167760908289)
 
 # Arduino Traffic Light Simulation
 
